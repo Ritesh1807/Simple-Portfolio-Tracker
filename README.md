@@ -140,24 +140,30 @@ Create a table for storing stock data as described above.
    - The code should be clean, modular, and well-documented.
    - Proper error handling (e.g., 404 for "not found", 400 for "bad request") should be implemented.
 
-#Contributing
+
+### **Contributing**
+
 We welcome contributions to enhance the platform! Please follow these steps to contribute:
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature/your-feature
+   ```
+3. Make your changes and commit them:
+   ```bash
+   git commit -m "Add your message"
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature/your-feature
+   ```
+5. Create a pull request.
 
-#Fork the repository.
-Create a new branch:
-git checkout -b feature/your-feature
-
-#Make your changes and commit them:
-git commit -m "Add your message"
-
-Push to the branch:
-git push origin feature/your-feature
-
-#Create a pull request.
-
-#License
+**License**
 
 This project is licensed under the MIT License.
 
-#Contact:
-For any queries or support, please contact: kr.ritesh1807@gmail.com
+## Contact:
+
+For any queries or support, please contact:
+kr.ritesh1807@gmail.com
