@@ -130,16 +130,6 @@ Create a table for storing stock data as described above.
 
 ---
 
-### 6. **Evaluation Criteria**
-
-1. **Functionality**:
-   - The app should handle adding, viewing, editing, and deleting stocks.
-   - The portfolio value must update dynamically using real-time stock prices.
-
-2. **Code Quality**:
-   - The code should be clean, modular, and well-documented.
-   - Proper error handling (e.g., 404 for "not found", 400 for "bad request") should be implemented.
-
 
 ### **Contributing**
 
