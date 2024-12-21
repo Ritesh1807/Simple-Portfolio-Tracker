@@ -140,9 +140,24 @@ Create a table for storing stock data as described above.
    - The code should be clean, modular, and well-documented.
    - Proper error handling (e.g., 404 for "not found", 400 for "bad request") should be implemented.
 
-3. **UI/UX Design**:
-   - The interface should be responsive, user-friendly, and aesthetically pleasing.
-   - TailwindCSS or Material-UI can be used for styling.
+#Contributing
+We welcome contributions to enhance the platform! Please follow these steps to contribute:
 
-4. **Technical Knowledge**:
-   - The project should demonstrate a solid understanding of both frontend and backend technologies, real-time data fetching, and database interaction.
+#Fork the repository.
+Create a new branch:
+git checkout -b feature/your-feature
+
+#Make your changes and commit them:
+git commit -m "Add your message"
+
+Push to the branch:
+git push origin feature/your-feature
+
+#Create a pull request.
+
+#License
+
+This project is licensed under the MIT License.
+
+#Contact:
+For any queries or support, please contact: kr.ritesh1807@gmail.com
